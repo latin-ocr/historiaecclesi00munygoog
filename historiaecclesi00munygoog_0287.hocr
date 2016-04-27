@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./historiaecclesi00munygoog_0287.png"; bbox 0 0 777 1325; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 66 81 128 473">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 66 81 128 473">
+     <span class='ocr_line' id='line_1_1' title="bbox 66 81 128 473; baseline 0 852"><span class='ocrx_word' id='word_1_1' title='bbox 66 81 128 473; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 68 485 155 581">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 68 485 155 581">
+     <span class='ocr_line' id='line_1_2' title="bbox 68 485 155 581; baseline 0 744"><span class='ocrx_word' id='word_1_2' title='bbox 68 485 155 581; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 66 786 130 1186">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 66 786 130 1186">
+     <span class='ocr_line' id='line_1_3' title="bbox 66 786 130 1186; baseline 0 139"><span class='ocrx_word' id='word_1_3' title='bbox 66 786 130 1186; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 255 212 375 233">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 255 212 375 233">
+     <span class='ocr_line' id='line_1_4' title="bbox 255 212 375 233; baseline 0 -5"><span class='ocrx_word' id='word_1_4' title='bbox 255 212 329 233; x_wconf 69' lang='lat' dir='ltr'>Supra-tn</span> <span class='ocrx_word' id='word_1_5' title='bbox 343 218 375 228; x_wconf 70' lang='lat' dir='ltr'>m·-</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 255 238 374 329">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 255 238 374 304">
+     <span class='ocr_line' id='line_1_5' title="bbox 255 238 374 253; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 255 238 279 253; x_wconf 74' lang='lat' dir='ltr'>nl</span> <span class='ocrx_word' id='word_1_7' title='bbox 289 238 354 253; x_wconf 68' lang='lat' dir='ltr'>mnium</span> <span class='ocrx_word' id='word_1_8' title='bbox 366 241 374 252; x_wconf 58' lang='lat'>.-</span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 255 262 372 283; baseline 0 -5"><span class='ocrx_word' id='word_1_9' title='bbox 255 262 320 283; x_wconf 69' lang='lat' dir='ltr'>lglmim</span> <span class='ocrx_word' id='word_1_10' title='bbox 330 263 358 279; x_wconf 69' lang='lat' dir='ltr'>»aa</span> <span class='ocrx_word' id='word_1_11' title='bbox 370 273 372 275; x_wconf 91' lang='lat'>.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 255 288 366 304; baseline 0 -1"><span class='ocrx_word' id='word_1_12' title='bbox 255 292 290 303; x_wconf 75' lang='lat' dir='ltr'>m</span> <span class='ocrx_word' id='word_1_13' title='bbox 300 288 366 304; x_wconf 65' lang='lat' dir='ltr'>Binda·</span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 297 313 367 329">
+     <span class='ocr_line' id='line_1_8' title="bbox 297 313 367 329; baseline 0 -1"><span class='ocrx_word' id='word_1_14' title='bbox 297 313 332 329; x_wconf 76' lang='lat' dir='ltr'>Non</span> <span class='ocrx_word' id='word_1_15' title='bbox 342 314 367 329; x_wconf 72' lang='lat' dir='ltr'>min</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
